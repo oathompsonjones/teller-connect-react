@@ -93,7 +93,7 @@ your application.
 ```tsx
 import { TellerConnect } from "teller-connect-react";
 
-const App extends React.Component {
+class App extends React.Component {
   // ...
   render() {
     return (
